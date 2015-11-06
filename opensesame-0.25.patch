@@ -1,0 +1,10 @@
+--- opensesame-0.27.4/data/opensesame.desktop     2012-12-11 18:01:06.000000000 +0100
++++ new-opensesame-0.27.4/data/opensesame.desktop  2014-01-17 22:13:15.868397376 +0100
+@@ -6,6 +6,6 @@
+ Exec=opensesame
+ Icon=applications-science
+ Type=Application
+-Categories=Development;IDE;Science
++Categories=Development;IDE;Science;
+ StartupNotify=true
+ MimeType=application/x-opensesame-experiment
